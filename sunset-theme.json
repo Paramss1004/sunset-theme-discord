@@ -1,4 +1,5 @@
 {
+  "spec": 2,
   "name": "Chat Background Theme",
   "description": "Chat Background",
   "authors": [
@@ -8,17 +9,8 @@
     }
   ],
   "background": {
-    "url": "https://raw.githubusercontent.com/Paramss1004/sunset-theme-discord/refs/heads/main/background.jpg",
+    "url": "https://raw.githubusercontent.com/Paramss1004/sunset-theme-discord/main/background.jpeg",
     "blur": 0.5,
-    "alpha": 0.25,
-    "size": "cover",
-    "position": "center"
-  },
-  "plus": {
-    "version": "0",
-    "iconpack": "solar"
-  },
-  "spec": 2,
-  "createdAt": "2025-07-27",
-  "source": "local"
+    "alpha": 0.25
+  }
 }
