@@ -11,7 +11,6 @@
   "background": {
     "url": "https://raw.githubusercontent.com/Paramss1004/sunset-theme-discord/main/d.png",
     "alpha": 1,
-    "blur": 0.75,
     "size": "cover",
     "position": "center"
   }
