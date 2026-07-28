@@ -1,7 +1,7 @@
 {
   "spec": 2,
   "name": "Chat Background Theme",
-  "description": "Chat Background",
+  "description": "",
   "authors": [
     {
       "name": "Param1004",
@@ -9,8 +9,9 @@
     }
   ],
   "background": {
-    "url": "https://raw.githubusercontent.com/Paramss1004/sunset-theme-discord/main/background.jpg",
-    "blur": 0.5,
-    "alpha": 0.25
+    "url": "https://raw.githubusercontent.com/Paramss1004/sunset-theme-discord/main/a.png",
+    "alpha": 1,
+    "size": "cover",
+    "position": "center"
   }
 }
